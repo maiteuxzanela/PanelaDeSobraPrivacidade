@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 ---
 
 TEXTO EM MARKDOWN PARA INTEGRAÇÃO NO APP
